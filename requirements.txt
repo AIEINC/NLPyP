@@ -1,0 +1,8 @@
+flask
+htmx
+transformers
+sentence-transformers
+numpy
+spacy
+nltk
+scikit-learn
